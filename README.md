@@ -8,11 +8,11 @@ This project is based on my internship experience in Arts et Métiers ParisTech 
 
 1.landmark localization based on heatmap
 
-![image](http://github.com/Wxy-24/3D_Cephalometry/blob/master/3D_cephalometry/img/workflow.png)  
+![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/workflow.png)  
 
 2.model for multi-task learning
 
-![image](http://github.com/Wxy-24/3D_Cephalometry/blob/master/3D_cephalometry/img/model.png)  
+![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/model.png)  
 
 3.models for comparison
 
