@@ -8,13 +8,19 @@ This project is based on my internship experience in Arts et Métiers ParisTech 
 
 1.landmark localization based on heatmap
 
+Here a Gaussian heatmap is created for each landmark whcich corresponds to its location in the 3D volume, and we can use deep learning to reconstruct another heatmap to estimate the numeric coordinats afterwards 
+
 ![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/workflow.png)  
 
 2.model for multi-task learning
 
+Here multi-task learning is implemented in a hard parameter sharing fashion before the final output layer of a 3d u-net
+
 ![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/model.png)  
 
 3.models for comparison
+
+Besides original model, we adopt short cut in original convolutional blocks to test the performance of the other model(3d res u-net & 3d dense u net)  
 
 ![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/comparison.png)  
 
