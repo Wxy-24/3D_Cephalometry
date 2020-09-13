@@ -16,7 +16,7 @@ This project is based on my internship experience in Arts et Métiers ParisTech 
 
 3.models for comparison
 
-![image](http://github.com/Wxy-24/3D_Cephalometry/blob/master/3D_cephalometry/img/comparison.png)  
+![image](http://github.com/Wxy-24/3D_Cephalometry/raw/master/3D_cephalometry/img/comparison.png)  
 
 
 
